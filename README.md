@@ -1,4 +1,4 @@
-Image Slider Project
+🚀Image Slider Project
 
 A simple image slider built with HTML and CSS. It allows images to slide automatically or manually, making it perfect for portfolios, galleries, or product showcases.
 
@@ -11,3 +11,7 @@ A simple image slider built with HTML and CSS. It allows images to slide automat
 -Automatic and manual navigation
 
 -Fully responsive design
+
+💥Tech stack
+-Html
+-CSS
