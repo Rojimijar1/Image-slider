@@ -13,5 +13,7 @@ A simple image slider built with HTML and CSS. It allows images to slide automat
 -Fully responsive design
 
 💥Tech stack
+
 -Html
+
 -CSS
